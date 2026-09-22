@@ -1,0 +1,7 @@
+- `[x]` Add Navigation Compose dependency
+- `[x]` Define Routes in `navigation/Routes.kt`
+- `[x]` Refactor `MainActivity.kt` to use `NavController` and `NavHost`
+- `[x]` Update `OnboardingScreen.kt` with nested navigation
+- `[x]` Wire up Drawer and Bottom Navigation
+- `[x]` Implement Security Gate interceptor logic
+- `[x]` Final verification of navigation flow
